@@ -84,7 +84,7 @@ let sortedName= review.sort((p1,p2)=>{
  }
  else
  {
-   console.log("daku aik number han");
+   
    return 0;
  }
 
