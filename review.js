@@ -16,7 +16,7 @@ name:"susanne sharp",
 job:"game dev",
 img:"https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883409/person-2_np9x5l.jpg",
 text:
-"iam webdevloper from ubsoft iam 23 years old web dev  iam 23 years old web dev iam 23 years old web dev iam 23 years old web dev,"
+"iam webdevloper from ubsoft iam 23 years old web dev  iam jkjkjkj 23 years old web dev iam 23 years old web dev iam 23 years old web dev,"
 
 },
 
